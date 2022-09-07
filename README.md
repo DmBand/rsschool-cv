@@ -1,1 +1,1 @@
-https://dmband.github.io/rsschool-cv/cv
+https://dmband.github.io/rsschool-cv/
