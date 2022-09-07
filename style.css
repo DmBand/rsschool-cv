@@ -154,6 +154,11 @@
     text-shadow: 5px -5px 3px transparent;
 }
 
+.h2 {
+    color: white; 
+    letter-spacing: 0px; 
+}
+
 .rss {
     width: 130px;
     height: 45px;
